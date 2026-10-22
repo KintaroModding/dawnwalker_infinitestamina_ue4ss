@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Infinite Stamina (UE4SS)",
+  "summary": "The player never runs out of stamina, as a UE4SS script that changes no game file. Enemies keep their normal stamina.",
+  "games": ["the-blood-of-dawnwalker"],
+  "tags": ["gameplay"],
+  "cover": "docs/cover.png",
+  "requires": ["UE4SS (for example UE4SS for The Blood of Dawnwalker, github.com/KintaroModding/dawnwalker_ue4ss)"],
+  "gameVersions": ["Patch 2"]
+}

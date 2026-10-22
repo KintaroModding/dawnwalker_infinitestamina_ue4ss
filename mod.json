@@ -1,0 +1,14 @@
+{
+  "name": "Infinite Stamina (UE4SS)",
+  "folder": "dawnwalker_infinitestamina_ue4ss",
+  "author": "Kintaro",
+  "version": "1.2",
+  "description": "The player never runs out of stamina. Enemies keep their normal stamina. Needs UE4SS.",
+  "kind": "ue4ss",
+  "game": "dawnwalker",
+  "gameFolder": "The Blood of Dawnwalker",
+  "win64Path": "Dawnwalker\\Binaries\\Win64",
+  "gameVersion": "dw1-pc-258504-shipping-patch2-all-CL-258504",
+  "engine": "UE5_5",
+  "ue4ss": "v3.0.1-1181-g83330635"
+}
