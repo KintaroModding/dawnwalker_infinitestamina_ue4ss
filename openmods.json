@@ -6,6 +6,6 @@
   "games": ["the-blood-of-dawnwalker"],
   "tags": ["gameplay"],
   "cover": "docs/cover.png",
-  "requires": ["UE4SS (for example UE4SS for The Blood of Dawnwalker, github.com/KintaroModding/dawnwalker_ue4ss)"],
+  "requires": ["UE4SS (for example github.com/KintaroModding/ue4ss, its zip for The Blood of Dawnwalker)"],
   "gameVersions": ["Patch 2"]
 }

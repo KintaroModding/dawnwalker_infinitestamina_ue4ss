@@ -19,9 +19,8 @@ The player never runs out of stamina, as a UE4SS script that changes no game fil
 
 ## How to install
 
-1. Install UE4SS for The Blood of Dawnwalker, for example
-   [UE4SS for The Blood of Dawnwalker](https://github.com/KintaroModding/dawnwalker_ue4ss): the official UE4SS build
-   with the UE4SS team's config for this game.
+1. Install UE4SS for The Blood of Dawnwalker, for example [UE4SS](https://github.com/KintaroModding/ue4ss) (its
+   zip `dawnwalker_ue4ss_<version>.zip`): the official UE4SS build with the UE4SS team's config for this game.
 2. Download `dawnwalker_infinitestamina_ue4ss_1.2.zip` from the latest release on GitHub.
 3. Unpack it into the game folder `Dawnwalker\Binaries\Win64\`, next to `Dawnwalker.exe`. It adds the folder
    `ue4ss\Mods\dawnwalker_infinitestamina_ue4ss\` (with the file `enabled.txt`, UE4SS starts it by itself).
